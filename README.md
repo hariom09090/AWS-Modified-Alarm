@@ -70,7 +70,7 @@ The CloudWatch Alarm Handler Lambda function is a robust tool for monitoring Ama
 
 ## Contributing
 
-If you'd like to contribute to this project or have suggestions for improvements, please feel free to submit a pull request or open an issue on the [GitHub repository](<link-to-your-repository>).
+If you'd like to contribute to this project or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository. Your input and collaboration are highly valued.
 
 ## License
 
