@@ -8,6 +8,10 @@ The AWS-Modified-Alarm is an AWS Lambda function designed to handle CloudWatch a
 4. Formats the command output.
 5. Sends an email notification with the alarm details and command output.
 
+## Architecture Diagram
+
+![Architecture](Architecture.png)
+
 ## Prerequisites
 
 Before setting up and configuring this Lambda function, ensure the following prerequisites are met:
